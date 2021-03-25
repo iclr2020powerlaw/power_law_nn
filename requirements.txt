@@ -82,7 +82,7 @@ PySocks==1.7.0
 pytest==5.1.2
 python-dateutil==2.8.0
 pytz==2019.1
-PyYAML==5.1.2
+PyYAML==5.4
 pyzmq==18.0.2
 RandomWords==0.2.1
 ray==0.7.4
